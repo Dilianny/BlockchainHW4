@@ -11,15 +11,15 @@
 Then, once you can view the contract on REMIX IDE follow the following steps to test the functions of the contract.
 
 # To test setInstructor and getInstructor functions;
-    >1. Click on the run tab
-    >2. Set the environment to "JavaScript VM"
-    >3. Click deploy button
-    >4.Then copy the address next to "Account"
-    >5. Then under deployed contract click on a transaction
-    >6.On setInstructor function add the following variables: "[paste copied address]", [age], "[first name]", "[last name]"
-    >7.And on getInstructor add the following: "[paste copied address]"
-    >8.Then click transact on setInstructor
-    >9.Then click on getInstructor button and wait for the result.
+    1. Click on the run tab
+    2. Set the environment to "JavaScript VM"
+    3. Click deploy button
+    4.Then copy the address next to "Account"
+    5. Then under deployed contract click on a transaction
+    6.On setInstructor function add the following variables: "[paste copied address]", [age], "[first name]", "[last name]"
+    7.And on getInstructor add the following: "[paste copied address]"
+    8.Then click transact on setInstructor
+    9.Then click on getInstructor button and wait for the result.
     
 
     For example: on setInsructor: "0xca35b7d915458ef540ade6068dfe2f44e8fa733c", 50, "Jon", "Snow"
