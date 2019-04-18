@@ -3,7 +3,7 @@
   > First set up the program. 
   > 1. Download the zip file and extract it.
   > 2. Access the Courses. sol file from the folder, then copy the entire code and paste it on REMIX ide.
-  > 3. Remix can be found in https://remix.ethereum.org
+  > 3. Remix can be found here: https://remix.ethereum.org/#optimize=false&version=soljson-v0.5.1+commit.c8a2cb62.js
 
 Then, once the code is pasted on REMIX IDE follow the following steps to test the functions of the contract.
 
