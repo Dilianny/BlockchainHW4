@@ -27,7 +27,7 @@ For example: on setInsructor: "0xca35b7d915458ef540ade6068dfe2f44e8fa733c", 50, 
  1. Follow same procedures from above, from step 3-9
  2. The click on countInstructor
  
- Result would be: ![image](https://github.com/Dilianny/BlockchainHw3/blob/master/BChw3%20images/Changes%201.PNG)
+ Result would be: ![image](https://github.com/Dilianny/BlockchainHW4/blob/master/HW4%20images/countInstructor.PNG)
  
  To test getInstructors function;
  1. Follow  the same steps as usual, then click on getInstructors.
