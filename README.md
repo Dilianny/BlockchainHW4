@@ -28,6 +28,12 @@ For example: on setInsructor: "0xca35b7d915458ef540ade6068dfe2f44e8fa733c", 50, 
  
  Result would be: image 
  
+ To test getInstructors function;
+ 1. Follow  the same steps as usual, then click on getInstructors.
+ It should return the address.
+ 
+ Example: image
+ 
  
 
 
